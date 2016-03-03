@@ -1,3 +1,5 @@
+# UNDER DEVELOPMENT
+## Not all features implemented yet
 
 usage: glacier.py [-h] [--filesystem FILESYSTEM] [--region REGION]
                   [--vault VAULT] [--archive ARCHIVE]
